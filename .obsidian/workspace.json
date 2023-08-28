@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bfd846019020955e",
+            "id": "b9d5de391076dd82",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Test Git/Coucou.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test Git/Coucou.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Test Git/Coucou.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Test Git/Coucou.md"
+              }
             }
           },
           {
@@ -148,15 +156,13 @@
       "publish:Publish changes...": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "remotely-save:Remotely Save": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "495779382dfac5dd",
+  "active": "b9d5de391076dd82",
   "lastOpenFiles": [
+    "Test Git/Coucou.md",
+    "Test Git",
     "Journal/28 08 2023.md",
     "Journal",
     "Mobile.md",
