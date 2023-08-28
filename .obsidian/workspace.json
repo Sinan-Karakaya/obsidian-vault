@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "0ed114a1b7631959",
+    "type": "split",
+    "children": [
+      {
+        "id": "2330aa557ffe48a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfd846019020955e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4e8718dba9e45fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc1d2a71c49ec878",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "495779382dfac5dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ebc9894382c886d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86402dc6f3971576",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "859d97d9cad2105a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2845cd84e82ec73f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cbdafaa5a01d048",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4bb3ffb8b41259ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b16ac5c495baadcb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "76ab25437157130c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d71bd4ddeb74f06",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "495779382dfac5dd",
+  "lastOpenFiles": [
+    "Journal/28 08 2023.md",
+    "Journal",
+    "Mobile.md",
+    "This is but a test.md",
+    "Ideas/Mobile",
+    "Ideas",
+    "Untitled.canvas"
+  ]
+}
