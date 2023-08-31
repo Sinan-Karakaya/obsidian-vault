@@ -23,3 +23,15 @@ Pas trop envie de dev aujourd'hui, je profite du peu de vacances qu'il me reste 
 Sinon depuis hier soir, j'ai pull Helm, Noah, et Blanc sur Nikke, donc content. Si seulement je pouvais drop Modernia maintenant...
 
 ___
+
+### 31/08/23
+
+Journée encore plus lente que d'habitude. Pour le coup, vraiment rien fait de spécial. J'ai commencé/continué Gundam Mercury, je surkiffe plutôt bien.
+
+Sinon je commence à douter par rapport à l'année prochaine, si je pars à l'EPSI ou non. D'un côté je continue à tek, je fais mon année à l'étranger, et j'obtiens mon diplôme après plein d'aller retour a Paris. Ou bien je fais de l'alternance dans une école qui au final à l'air pas beaucoup mieux que tek, hormis qu'ils proposent de l'alternance. Honnêtement ca me stresse énormément, tellement que je perds beaucoup de cheveux (ce qui m'inquiète aussi beaucoup). Je verrais ça le plus vite possible, avant Octobre je dois avoir fait mon choix.
+
+Sinon je dois aussi prendre mon billet d'avion pour la Corée en Septembre aussi, donc une nouvelle deadline, super. Mais bon au pire je prendrais surement un billet avec l'option pour annuler.
+
+Bref le plus gros stress de la journée c'est clairement pour ma 4ème année. Va falloir que je fasse un choix un jour, et selon le choix que je vais faire, ça pourrait couter très cher en terme d'argent. Rester a tek me ferait dépenser au moins 30 000€ en plus pour les 2 dernières années, ces chiens assoiffés d'argent. J'aimerais pouvoir faire de la freelance, pour essayer d'aider tout le monde. Je vais essayer de faire le stage qui rapporte le plus et aussi essayer de dépenser le moins possible. Je vais en avoir besoin. Mais j'avoue que passer une année à l'étranger ça serait pas mal, surtout si c'est dans un coin du genre Danemark, Italie, ou en Asie. Faudra que je me renseigne à fond.
+
+[[Semaine 1|Semaine suivante]]
