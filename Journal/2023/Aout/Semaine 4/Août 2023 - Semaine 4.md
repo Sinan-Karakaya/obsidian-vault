@@ -13,3 +13,13 @@ Bon sinon, je continue AC6 et je kiffe pour l'instant, mais j'avoue que j'ai rev
 Je me demande aussi si je pourrais pas dev un programme qui mets mes heures de réveil et de coucher dans ce journal, en tant que entry. Vu que tout est stocké sur un repo git ça devrait être possible? J'ai vu que l'application Android Sleep était notifié de ces infos, suffit de trouver comment elle fait.
 
 ___
+
+### 30/08/23
+
+Nouvelle journée, rien de spécial aujourd'hui, j'ai continué AC6. Sinon à 18h je suis parti faire une séance de code, je m'en suis sorti avec 9 erreurs. La bonne nouvelle c'est que c'était beaucoup d'erreurs nulles dont je me ferais plus avoir, donc je devrais bientôt être good là dessus.
+
+Pas trop envie de dev aujourd'hui, je profite du peu de vacances qu'il me reste avant la rentrée.
+
+Sinon depuis hier soir, j'ai pull Helm, Noah, et Blanc sur Nikke, donc content. Si seulement je pouvais drop Modernia maintenant...
+
+___
