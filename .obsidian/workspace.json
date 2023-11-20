@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023/Aout/Semaine 4/Août 2023 - Semaine 4.md",
+                "file": "Journal/2023/Aout/Semaine 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023/Aout/Semaine 4/Août 2023 - Semaine 4.md",
+                "file": "Journal/2023/Aout/Semaine 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023/Aout/Semaine 4/Août 2023 - Semaine 4.md",
+                "file": "Journal/2023/Aout/Semaine 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023/Aout/Semaine 4/Août 2023 - Semaine 4.md"
+                "file": "Journal/2023/Aout/Semaine 4.md"
               }
             }
           },
@@ -172,7 +172,9 @@
   },
   "active": "d3c2dec8277e7361",
   "lastOpenFiles": [
-    "Journal/2023/Aout/Semaine 4/Août 2023 - Semaine 4.md",
+    "Journal/2023/Septembre/Semaine 1.md",
+    "Journal/2023/Aout/Semaine 4.md",
+    "Journal/2023/Septembre",
     "Journal/2023/Aout/Semaine 4",
     "Journal/2023/Aout",
     "Journal/2023",
