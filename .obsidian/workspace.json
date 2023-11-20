@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3c2dec8277e7361",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +170,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "38e71f4f9d125061",
+  "active": "d3c2dec8277e7361",
   "lastOpenFiles": [
     "Journal/2023/Aout/Semaine 4/Août 2023 - Semaine 4.md",
     "Journal/2023/Aout/Semaine 4",
