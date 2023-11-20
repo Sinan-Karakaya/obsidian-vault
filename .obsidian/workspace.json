@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/MAGIC/MAGIC ML.md",
+                "file": "Machine Learning/101/MAGIC ML.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/MAGIC/Supervised learning.md",
+                "file": "Machine Learning/101/Supervised learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/MAGIC/Supervised learning.md",
+                "file": "Machine Learning/101/Supervised learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/MAGIC/Supervised learning.md",
+                "file": "Machine Learning/101/Supervised learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/MAGIC/Supervised learning.md"
+                "file": "Machine Learning/101/Supervised learning.md"
               }
             }
           },
@@ -172,12 +172,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e762b4798e83d73b",
+  "active": "495779382dfac5dd",
   "lastOpenFiles": [
-    "Machine Learning/MAGIC/Unsupervised learning.md",
-    "Machine Learning/MAGIC/Supervised learning.md",
-    "Machine Learning/MAGIC/MAGIC ML.md",
-    "Machine Learning/MAGIC",
+    "Machine Learning/101/Unsupervised learning.md",
+    "Machine Learning/101/Supervised learning.md",
+    "Machine Learning/101/MAGIC ML.md",
+    "Machine Learning/101",
     "Untitled",
     "Machine Learning",
     "Journal/2023/Septembre/Semaine 1.md",
