@@ -4,28 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "7e1e46e9b0473a4a",
+        "id": "11ecc110a751d269",
         "type": "tabs",
         "children": [
           {
-            "id": "38e71f4f9d125061",
+            "id": "3e575c993a226cec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023/Aout/Semaine 4.md",
+                "file": "Machine Learning/MAGIC/MAGIC ML.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d3c2dec8277e7361",
+            "id": "e762b4798e83d73b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.5"
+                "file": "Machine Learning/MAGIC/Supervised learning.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023/Aout/Semaine 4.md",
+                "file": "Machine Learning/MAGIC/Supervised learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023/Aout/Semaine 4.md",
+                "file": "Machine Learning/MAGIC/Supervised learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023/Aout/Semaine 4.md"
+                "file": "Machine Learning/MAGIC/Supervised learning.md"
               }
             }
           },
@@ -170,15 +172,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d3c2dec8277e7361",
+  "active": "e762b4798e83d73b",
   "lastOpenFiles": [
+    "Machine Learning/MAGIC/Unsupervised learning.md",
+    "Machine Learning/MAGIC/Supervised learning.md",
+    "Machine Learning/MAGIC/MAGIC ML.md",
+    "Machine Learning/MAGIC",
+    "Untitled",
+    "Machine Learning",
     "Journal/2023/Septembre/Semaine 1.md",
-    "Journal/2023/Aout/Semaine 4.md",
     "Journal/2023/Septembre",
+    "Journal/2023/Aout/Semaine 4.md",
+    "Journal/2023/Aout/Semaine 4/Août 2023 - Semaine 4.md",
     "Journal/2023/Aout/Semaine 4",
     "Journal/2023/Aout",
     "Journal/2023",
-    "Untitled",
     "Journal",
     "Test Git/Coucou.md",
     "Test Git",
@@ -186,8 +194,6 @@
     "Journal",
     "Mobile.md",
     "This is but a test.md",
-    "Ideas/Mobile",
-    "Ideas",
     "Untitled.canvas"
   ]
 }
