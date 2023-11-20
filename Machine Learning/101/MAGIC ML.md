@@ -1,7 +1,7 @@
 # Types of ML
 
 - [[Supervised learning]]
-- Unsupervised learning
+- [[Unsupervised learning]]
 - Reinforcement learning
 
 ## The project
@@ -101,3 +101,21 @@ The interesting part is that in case we have more features, we can integrate tho
 
 #### Implementation
 
+```python
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.metrics import classification_report
+
+knn_model = KNeighborsClassifier(n_neighbors=3)
+knn_model.fit(x_train, y_train)
+
+y_pred = knn_model.predict(x_test)
+print(classification_report(y_test, y_pred))
+
+#               precision    recall  f1-score   support
+#            0       0.75      0.73      0.74      1394
+#            1       0.85      0.86      0.85      2410
+
+#     accuracy                           0.81      3804
+#    macro avg       0.80      0.80      0.80      3804
+# weighted avg       0.81      0.81      0.81      3804
+```

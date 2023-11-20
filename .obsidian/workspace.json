@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "11ecc110a751d269",
+        "id": "3a91597b3f3a7d19",
         "type": "tabs",
         "children": [
           {
-            "id": "3e575c993a226cec",
+            "id": "4f3f457e0fa70436",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/101/MAGIC ML.md",
+                "file": "Machine Learning/102/Naive Bayes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e762b4798e83d73b",
+            "id": "bb4ab944d3f0c722",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/101/MAGIC ML.md",
+                "file": "Machine Learning/102/Logistic Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/101/MAGIC ML.md",
+                "file": "Machine Learning/102/Logistic Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/101/MAGIC ML.md",
+                "file": "Machine Learning/102/Logistic Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/101/MAGIC ML.md"
+                "file": "Machine Learning/102/Logistic Regression.md"
               }
             }
           },
@@ -172,10 +172,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e762b4798e83d73b",
+  "active": "495779382dfac5dd",
   "lastOpenFiles": [
-    "Machine Learning/101/Assets/Pasted image 20231120213003.png",
+    "Machine Learning/102/Naive Bayes.md",
+    "Machine Learning/102/Logistic Regression.md",
+    "Machine Learning/102/Assets",
+    "Machine Learning/102/Assets/Pasted image 20231120220454.png",
     "Machine Learning/101/MAGIC ML.md",
+    "Machine Learning/102",
+    "Machine Learning/101/Assets/Pasted image 20231120213003.png",
     "Machine Learning/101/Assets",
     "Machine Learning/101/Assets/Pasted image 20231120212852.png",
     "Machine Learning/101/Assets/Pasted image 20231120212356.png",
@@ -192,9 +197,7 @@
     "Journal/2023/Aout/Semaine 4",
     "Journal/2023/Aout",
     "Journal/2023",
-    "Journal",
     "Test Git/Coucou.md",
-    "Test Git",
     "Journal/28 08 2023.md",
     "Mobile.md",
     "This is but a test.md",
