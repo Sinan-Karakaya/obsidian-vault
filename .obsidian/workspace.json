@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/102/Naive Bayes.md",
+                "file": "Machine Learning/102/1 - Naive Bayes.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/102/Logistic Regression.md",
+                "file": "Machine Learning/102/2 - Logistic Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/102/Logistic Regression.md",
+                "file": "Machine Learning/102/2 - Logistic Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/102/Logistic Regression.md",
+                "file": "Machine Learning/102/2 - Logistic Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/102/Logistic Regression.md"
+                "file": "Machine Learning/102/2 - Logistic Regression.md"
               }
             }
           },
@@ -172,10 +172,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "495779382dfac5dd",
+  "active": "bb4ab944d3f0c722",
   "lastOpenFiles": [
-    "Machine Learning/102/Naive Bayes.md",
-    "Machine Learning/102/Logistic Regression.md",
+    "Machine Learning/102/1 - Naive Bayes.md",
+    "Machine Learning/102/2 - Logistic Regression.md",
+    "Machine Learning/102/Assets/Pasted image 20231120225039.png",
+    "Machine Learning/102/Assets/Pasted image 20231120224000.png",
     "Machine Learning/102/Assets",
     "Machine Learning/102/Assets/Pasted image 20231120220454.png",
     "Machine Learning/101/MAGIC ML.md",

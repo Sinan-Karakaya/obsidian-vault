@@ -56,5 +56,26 @@ So the probability us playing soccer today given that it's rainy, not windy, and
 $$ \hat{y} = argmax_{k \varepsilon {1, k}} P(C_k | x_1, x_2, ..., x_n) $$
 Thanks to Bayes' Rule, we can simplify to:
 $$ \hat{y} = P(C_k) \prod_{i=1}^n P(x_i | C_k) $$
-	This action is known as MAP (Maximum A Posteriori). `Pick the K that is the most probable so we minimize the probability of misclassification.`
-	
+This action is known as MAP (Maximum A Posteriori). `Pick the K that is the most probable so we minimize the probability of misclassification.`
+
+#### Implementation
+
+```python
+from sklearn.naive_bayes import GaussianNB
+
+nb_model = GaussianNB()
+nb_model.fit(x_train, y_train)
+
+y_pred = nb_model.predict(x_test)
+print()
+print(classification_report(y_test, y_pred))
+
+#               precision    recall  f1-score   support
+
+#            0       0.71      0.41      0.52      1334
+#            1       0.74      0.91      0.82      2470
+
+#     accuracy                           0.73      3804
+#    macro avg       0.72      0.66      0.67      3804
+# weighted avg       0.73      0.73      0.71      3804
+```
