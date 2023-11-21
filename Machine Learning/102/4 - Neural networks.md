@@ -1,0 +1,34 @@
+![[Pasted image 20231121110917.png]]
+
+In a neural network, each input corresponds to a feature, which then get weighted using a **w** value. Then, the sum of all of these get computed in a **neuron**. To add some randomness in the neural network, we will add a **bias** to the to the neuron, which will shift some values.
+This will then go into what's called an **activation function**, which will then give us our output.
+
+![[Pasted image 20231121111249.png]]
+
+## The activation function
+
+If we don't have an activation function, running a neural network would just change values in a linear manner, which we could just do using a formula or a simpler algorithm.
+
+**Without an activation function, this would just be a linear model !**
+
+Here are some examples of an activation function:
+
+![[Pasted image 20231121111721.png]]
+
+If we take a look at our L2 loss function, here is what it would look like:
+
+![[Pasted image 20231121112013.png]]
+
+Once we get far away from our center, the error becomes highly unforgivable. Thus, our goal becomes to go down. We can use something called **gradient descent**.
+
+![[Pasted image 20231121112450.png]]
+
+Depending on where we are on the curve, the value of the gradient descent vector changes.
+To calculate how much we have to backstep, we need to look up **back propagation**.
+$$ w_{0, new} = w_{0, old} + \alpha * {arrowValue} $$
+This way, we will change the weight of the feature to make it closer to what we want.
+The alpha letter (called the **learning rate**) is here to minimize the error while we step down, letting us make small step by small step, in case we're wrong.
+
+*The reason it is a + in this formula is because we want the negative gradient*
+
+All of that is what corresponds to the adjustments made to the model during the training.
