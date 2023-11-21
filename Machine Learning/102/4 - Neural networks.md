@@ -132,3 +132,26 @@ for num_nodes in [16, 32, 64]:
                     least_val_loss = val_loss
                     least_loss_model = model
 ```
+
+```
+Best model
+Model: "sequential_52"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #
+=================================================================
+ dense_156 (Dense)           (None, 64)                704
+
+ dropout_104 (Dropout)       (None, 64)                0
+
+ dense_157 (Dense)           (None, 64)                4160
+
+ dropout_105 (Dropout)       (None, 64)                0
+
+ dense_158 (Dense)           (None, 1)                 65
+
+=================================================================
+Total params: 4929 (19.25 KB)
+Trainable params: 4929 (19.25 KB)
+Non-trainable params: 0 (0.00 Byte)
+_________________________________________________________________
+```
