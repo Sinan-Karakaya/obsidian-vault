@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/102/1 - Naive Bayes.md",
+                "file": "Machine Learning/102/3 - Support vector machine.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/102/1 - Naive Bayes.md",
+                "file": "Machine Learning/102/3 - Support vector machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/102/1 - Naive Bayes.md",
+                "file": "Machine Learning/102/3 - Support vector machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/102/1 - Naive Bayes.md"
+                "file": "Machine Learning/102/3 - Support vector machine.md"
               }
             }
           },
@@ -162,20 +162,21 @@
   "active": "d4e1fa282c11be40",
   "lastOpenFiles": [
     "Machine Learning/102/2 - Logistic Regression.md",
+    "Machine Learning/102/3 - Support vector machine.md",
+    "Machine Learning/102/1 - Naive Bayes.md",
+    "Machine Learning/101/Unsupervised learning.md",
+    "Machine Learning/101/Supervised learning.md",
+    "Machine Learning/101/MAGIC ML.md",
     "Journal/2023/Aout/Semaine 4.md",
     "Machine Learning/102/Assets/Pasted image 20231120225039.png",
     "Machine Learning/102/Assets/Pasted image 20231120224000.png",
     "Machine Learning/102/Assets/Pasted image 20231120220454.png",
     "Machine Learning/102/Assets",
-    "Machine Learning/102/1 - Naive Bayes.md",
     "Machine Learning/102",
     "Machine Learning/101/Assets/Pasted image 20231120212852.png",
     "Machine Learning/101/Assets/Pasted image 20231120213003.png",
     "Machine Learning/101/Assets/Pasted image 20231120212356.png",
     "Machine Learning/101/Assets/Pasted image 20231120212029.png",
-    "Machine Learning/101/Unsupervised learning.md",
-    "Machine Learning/101/Supervised learning.md",
-    "Machine Learning/101/MAGIC ML.md",
     "Machine Learning/101/Assets",
     "Machine Learning/101",
     "Machine Learning",
