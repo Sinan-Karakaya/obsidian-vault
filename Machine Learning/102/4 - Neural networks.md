@@ -32,3 +32,46 @@ The alpha letter (called the **learning rate**) is here to minimize the error wh
 *The reason it is a + in this formula is because we want the negative gradient*
 
 All of that is what corresponds to the adjustments made to the model during the training.
+
+## Implementation
+
+```python
+import tensorflow as tf
+
+# ------------------ Functions for visualisation ------------------
+def plot_loss(history):
+    plt.plot(history.history['loss'], label='loss')
+    plt.plot(history.history['val_loss'], label='val_loss')
+    plt.xlabel('Epoch')
+    plt.ylabel('Error')
+    plt.legend()
+    plt.grid(True)
+    plt.show()
+
+def plot_accuracy(history):
+    plt.plot(history.history['accuracy'], label='accuracy')
+    plt.plot(history.history['val_accuracy'], label='val_accuracy')
+    plt.xlabel('Epoch')
+    plt.ylabel('Accuracy')
+    plt.legend()
+    plt.grid(True)
+    plt.show()
+# -----------------------------------------------------------------
+
+# Layers of the neural network 
+nn_model = tf.keras.Sequential([
+    tf.keras.layers.Dense(32, activation='relu', input_shape=(10,)),
+    tf.keras.layers.Dense(32, activation='relu'),
+    tf.keras.layers.Dense(1, activation='sigmoid'),
+])
+
+nn_model.compile(optimizer=tf.keras.optimizers.Adam(0.001), loss='binary_crossentropy', metrics=['accuracy'])  
+
+history = nn_model.fit(x_train, y_train, epochs=100, batch_size=32, validation_split=0.2, verbose=0)
+
+plot_loss(history)
+plot_accuracy(history)
+```
+
+![[Pasted image 20231121120301.png]]
+![[Pasted image 20231121120322.png]]
