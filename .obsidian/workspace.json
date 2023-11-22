@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/103/Principal Component Analysis.md",
+                "file": "Machine Learning/103/Unsupervised - Seeds.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/103/Principal Component Analysis.md",
+                "file": "Machine Learning/103/Unsupervised - Seeds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/103/Principal Component Analysis.md",
+                "file": "Machine Learning/103/Unsupervised - Seeds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/103/Principal Component Analysis.md"
+                "file": "Machine Learning/103/Unsupervised - Seeds.md"
               }
             }
           },
@@ -161,8 +161,10 @@
   },
   "active": "d4e1fa282c11be40",
   "lastOpenFiles": [
-    "Machine Learning/103/K-MEANS Clustering.md",
     "Machine Learning/103/Principal Component Analysis.md",
+    "Machine Learning/103/Unsupervised - Seeds.md",
+    "Machine Learning/103/Assets/Pasted image 20231122161607.png",
+    "Machine Learning/103/K-MEANS Clustering.md",
     "Machine Learning/103/Assets",
     "Machine Learning/103/Assets/Pasted image 20231122160525.png",
     "Machine Learning/101/Unsupervised learning.md",
@@ -177,7 +179,6 @@
     "Machine Learning/102/Assets/Pasted image 20231122113822.png",
     "Machine Learning/102/Assets/Pasted image 20231121151101.png",
     "Pasted image 20231121151014.png",
-    "Machine Learning/102/Assets/Pasted image 20231121150319.png",
     "Machine Learning/102/4 - Neural networks.md",
     "Machine Learning/102/3 - Support vector machine.md",
     "Machine Learning/102/2 - Logistic Regression.md",
