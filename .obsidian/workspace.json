@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/102/5 - Linear Regression.md",
+                "file": "Machine Learning/102/Supervised Learning - Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/102/5 - Linear Regression.md",
+                "file": "Machine Learning/102/Supervised Learning - Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/102/5 - Linear Regression.md",
+                "file": "Machine Learning/102/Supervised Learning - Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/102/5 - Linear Regression.md"
+                "file": "Machine Learning/102/Supervised Learning - Regression.md"
               }
             }
           },
@@ -161,8 +161,9 @@
   },
   "active": "d4e1fa282c11be40",
   "lastOpenFiles": [
-    "Machine Learning/102/Assets/Pasted image 20231122113204.png",
     "Machine Learning/102/5 - Linear Regression.md",
+    "Machine Learning/102/Supervised Learning - Regression.md",
+    "Machine Learning/102/Assets/Pasted image 20231122113204.png",
     "Machine Learning/102/Assets/Pasted image 20231122115252.png",
     "Machine Learning/102/Assets/Pasted image 20231122113822.png",
     "Machine Learning/102/Assets/Pasted image 20231121151101.png",
