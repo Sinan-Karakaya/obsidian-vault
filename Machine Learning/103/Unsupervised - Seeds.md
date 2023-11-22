@@ -35,3 +35,40 @@ We can see distinct groups in the data.
 
 ### [[K-MEANS Clustering]] 
 
+#### Implementation
+
+```python
+from sklearn.cluster import KMeans
+
+a = 'perimeter'
+b = 'asymmetry'
+X = df[[a, b]].values
+
+kmeans = KMeans(n_clusters=3).fit(X)
+clusters = kmeans.labels_
+cluster_df = pd.DataFrame(np.hstack((X, clusters.reshape(-1, 1))), columns=[a, b, 'class'])
+
+# K means clustering (Fig.1)
+sns.scatterplot(x=a, y=b, hue='class', data=cluster_df)
+plt.show()
+```
+
+![[Pasted image 20231122164123.png]]
+
+### Higher dimensions
+
+```python
+X = df[cols[:-1]].values
+kmeans = KMeans(n_clusters=3).fit(X)
+clusters = kmeans.labels_
+
+cluster_df = pd.DataFrame(np.hstack((X, clusters.reshape(-1, 1))), columns=df.columns)
+
+sns.scatterplot(x=a, y=b, hue='class', data=cluster_df)
+plt.show()
+```
+
+![[Pasted image 20231122164750.png]]
+
+### PCA
+
