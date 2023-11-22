@@ -10,3 +10,7 @@ The unsupervised learning is very similar to the [[Supervised learning]]. The on
 ## So how do I train my model ?
 
 How can I train my model without having the expected result for comparison ? This would be achieved with guesses pretty much. When trying to detect for example different pictures of different animals, the model would still be able after a certain time to group them by looking for similarities.
+
+#### Examples
+
+- [[K-MEANS Clustering]]
