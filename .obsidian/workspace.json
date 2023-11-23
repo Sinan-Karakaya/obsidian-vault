@@ -40,9 +40,21 @@
                 "currentVersion": "1.4.16"
               }
             }
+          },
+          {
+            "id": "3a935192442b2090",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/102/2 - Logistic Regression.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/102/2 - Logistic Regression.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/102/2 - Logistic Regression.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -192,23 +204,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "68cd526577651309",
+  "active": "3a935192442b2090",
   "lastOpenFiles": [
-    "Machine Learning/102/1 - Naive Bayes.md",
+    "Machine Learning/103/Unsupervised - Seeds.md",
+    "Machine Learning/103/Principal Component Analysis.md",
+    "Machine Learning/103/K-MEANS Clustering.md",
+    "Machine Learning/102/Supervised Learning - Regression.md",
+    "Machine Learning/102/5 - Linear Regression.md",
+    "Machine Learning/102/4 - Neural networks.md",
+    "Machine Learning/102/3 - Support vector machine.md",
     "Machine Learning/102/2 - Logistic Regression.md",
-    "Machine Learning/102/Assets/Pasted image 20231120225039.png",
-    "Machine Learning/102/Assets/Pasted image 20231120224000.png",
-    "Machine Learning/102/Assets",
-    "Machine Learning/102/Assets/Pasted image 20231120220454.png",
-    "Machine Learning/101/MAGIC ML.md",
-    "Machine Learning/102",
-    "Machine Learning/101/Assets/Pasted image 20231120213003.png",
-    "Machine Learning/101/Assets",
-    "Machine Learning/101/Assets/Pasted image 20231120212852.png",
-    "Machine Learning/101/Assets/Pasted image 20231120212356.png",
-    "Machine Learning/101/Assets/Pasted image 20231120212029.png",
-    "Machine Learning/101/Supervised learning.md",
+    "Machine Learning/102/1 - Naive Bayes.md",
     "Machine Learning/101/Unsupervised learning.md",
+    "Machine Learning/101/Supervised learning.md",
+    "Machine Learning/101/MAGIC ML.md",
+    "conflict-files-obsidian-git.md",
+    "Machine Learning/103/Assets/Pasted image 20231122164123.png",
+    "Machine Learning/103/Assets/Pasted image 20231122164750.png",
+    "Machine Learning/103/Assets/Pasted image 20231122163211.png",
+    "Machine Learning/103/Assets/Pasted image 20231122164118.png",
+    "Machine Learning/103/Assets/Pasted image 20231122163201.png",
+    "Machine Learning/103/Assets/Pasted image 20231122160525.png",
+    "Machine Learning/103/Assets/Pasted image 20231122163143.png",
+    "Machine Learning/103/Assets/Pasted image 20231122161607.png",
+    "Machine Learning/103/Assets",
+    "Machine Learning/103",
+    "Machine Learning/102/Assets/Pasted image 20231122153253.png",
+    "Machine Learning/102/Assets/Pasted image 20231122153209.png",
+    "Machine Learning/102/Assets",
+    "Machine Learning/102",
+    "Machine Learning/101/Assets",
     "Machine Learning/101",
     "Untitled",
     "Machine Learning",
@@ -217,8 +242,6 @@
     "Journal/2023/Aout/Semaine 4.md",
     "Journal/2023/Aout/Semaine 4/Août 2023 - Semaine 4.md",
     "Journal/2023/Aout/Semaine 4",
-    "Journal/2023/Aout",
-    "Journal/2023",
     "Test Git/Coucou.md",
     "Journal/28 08 2023.md",
     "Mobile.md",
