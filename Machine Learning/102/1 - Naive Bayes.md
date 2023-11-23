@@ -6,6 +6,9 @@
 | n | 20 (false positive) | 9443 | 9463 |
 | Total | 551 | 9449 | |
 
+*A false positive can be known as a Type I error.*
+*A false negative can be known as a Type II error.*
+
 #### What is the probability of having covid given a positive test ?
 
 This corresponds to the first row of the dataset.
