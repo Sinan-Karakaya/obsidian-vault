@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/101/Supervised learning.md",
+                "file": "Machine Learning/To Dive Deeper/Decision Tree & Random Forest.md",
                 "mode": "preview",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Machine Learning/101/Supervised learning.md",
+            "file": "Machine Learning/To Dive Deeper/Decision Tree & Random Forest.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Machine Learning/101/Supervised learning.md",
+            "file": "Machine Learning/To Dive Deeper/Decision Tree & Random Forest.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Machine Learning/101/Supervised learning.md"
+            "file": "Machine Learning/To Dive Deeper/Decision Tree & Random Forest.md"
           }
         }
       },
@@ -155,10 +155,30 @@
   },
   "active": "03b9a19716851d24",
   "lastOpenFiles": [
+    "Machine Learning/To Dive Deeper/Assets/Pasted image 20231123213150.png",
+    "Machine Learning/To Dive Deeper/SMOTE-NC.md",
+    "Machine Learning/To Dive Deeper/SMOTE (Synthetic Minority Oversampling Technique).md",
+    "Machine Learning/To Dive Deeper/Receiver Operating Characteristics.md",
+    "Machine Learning/To Dive Deeper/Inductive or Deductive Reasoning.md",
+    "Machine Learning/To Dive Deeper/Decision Tree & Random Forest.md",
+    "Machine Learning/102/1 - Naive Bayes.md",
+    "Machine Learning/To Dive Deeper/Assets/Pasted image 20231123220042.png",
+    "/Machine Learning/To Dive Deeper/SMOTE-NC.md",
+    "/Machine Learning/To Dive Deeper/SMOTE (Synthetic Minority Oversampling Technique).md",
+    "/Machine Learning/To Dive Deeper/Receiver Operating Characteristics.md",
+    "/Machine Learning/To Dive Deeper/Inductive or Deductive Reasoning.md",
+    "/Machine Learning/To Dive Deeper/Decision Tree & Random Forest.md",
+    "/Machine Learning/To Dive Deeper/Assets/Pasted image 20231123220042.png",
+    "/Machine Learning/To Dive Deeper/Assets/Pasted image 20231123213150.png",
+    "/Machine Learning/102/1 - Naive Bayes.md",
+    "Machine Learning/To Dive Deeper/Assets",
+    "Machine Learning/To Dive Deeper",
+    "/Machine Learning/To Dive Deeper/Assets",
+    "/Machine Learning/To Dive Deeper",
     "Machine Learning/101/MAGIC ML.md",
-    "Machine Learning/103/K-MEANS Clustering.md",
     "Machine Learning/101/Unsupervised learning.md",
     "Machine Learning/101/Supervised learning.md",
+    "Machine Learning/103/K-MEANS Clustering.md",
     "Machine Learning/102/Supervised Learning - Regression.md",
     "Machine Learning/102/3 - Support vector machine.md",
     "Machine Learning/102/2 - Logistic Regression.md",
@@ -172,34 +192,13 @@
     "Machine Learning/103/Assets/Pasted image 20231122163211.png",
     "Machine Learning/103/Assets/Pasted image 20231122163201.png",
     "Machine Learning/103/Assets/Pasted image 20231122163143.png",
-    "Machine Learning/103/Assets/Pasted image 20231122161607.png",
-    "Machine Learning/103/Assets/Pasted image 20231122160525.png",
-    "Machine Learning/102/Assets/Pasted image 20231122153253.png",
-    "Machine Learning/102/Assets/Pasted image 20231122153209.png",
     "/Machine Learning/103/Unsupervised - Seeds.md",
     "/Machine Learning/103/Principal Component Analysis.md",
-    "/Machine Learning/103/K-MEANS Clustering.md",
-    "/Machine Learning/102/Supervised Learning - Regression.md",
-    "/Machine Learning/102/5 - Linear Regression.md",
-    "/Machine Learning/102/4 - Neural networks.md",
-    "/Machine Learning/101/Unsupervised learning.md",
     "Machine Learning/103/Assets",
     "Machine Learning/103",
     "/Machine Learning/103/Assets",
     "/Machine Learning/103",
-    "/Machine Learning/102/3 - Support vector machine.md",
-    "Machine Learning/102/1 - Naive Bayes.md",
-    "Machine Learning/102/Naive Bayes.md",
-    "/Machine Learning/102/2 - Logistic Regression.md",
-    "/Machine Learning/102/1 - Naive Bayes.md",
-    "Journal/2023/Aout/Semaine 4.md",
-    "Machine Learning/102/Logistic Regression.md",
-    "/Machine Learning/102/Naive Bayes.md",
     "Machine Learning/102/Assets",
-    "Machine Learning/101/Assets",
-    "Machine Learning/102",
-    "Machine Learning/101",
-    "Machine Learning",
-    "/Machine Learning/102/Assets"
+    "Machine Learning/101/Assets"
   ]
 }
