@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "68cd526577651309",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,6 +159,16 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "cc9c76549f7cced0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -172,7 +192,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb4ab944d3f0c722",
+  "active": "68cd526577651309",
   "lastOpenFiles": [
     "Machine Learning/102/1 - Naive Bayes.md",
     "Machine Learning/102/2 - Logistic Regression.md",
