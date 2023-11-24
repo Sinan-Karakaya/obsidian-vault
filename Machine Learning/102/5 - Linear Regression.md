@@ -30,11 +30,11 @@ $$ y = b_0 + b_1 x_1 + b_2 x_2 + ... + b_{n} x_n $$
 $$ \text{MAE} = \frac{\sum_\limits{i = 1}^{n} | y_i - \hat{y_i}|}{n} $$
 ![[Pasted image 20231122113822.png]]
 
-This gives us the average between our predicted value and ou training dataset. We can then say `This is by our many our data is off`.
+This gives us the average between our predicted value and ou training dataset. We can then say `This is by how much our data is off`.
 
 ### Mean Squared Error (MSE)
 $$ \text{MSE} = \frac{\sum_\limits{i = 1}^{n} ( y_i - \hat{y_i})^2}{n} $$
-This would give us by our much *squared* our data is off, which is not very human understandable. Which is why we created...
+This would give us by how much *squared* our data is off, which is not very human understandable. Which is why we created...
 
 ### Root Mean Squared Error (RMSE)
 $$ \text{RMSE} = \sqrt{\frac{\sum_\limits{i = 1}^{n} ( y_i - \hat{y_i})^2}{n}} $$
