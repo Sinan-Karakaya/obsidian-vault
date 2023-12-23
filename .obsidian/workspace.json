@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec7643b7ba808f2a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,6 +147,16 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "da1330b6148dd888",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -159,7 +180,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4e1fa282c11be40",
+  "active": "ec7643b7ba808f2a",
   "lastOpenFiles": [
     "Machine Learning/103/Assets/Pasted image 20231122164118.png",
     "Machine Learning/103/Unsupervised - Seeds.md",
