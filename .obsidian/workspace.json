@@ -20,29 +20,19 @@
             }
           },
           {
-            "id": "ec7643b7ba808f2a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
-          },
-          {
-            "id": "2401f6311d1a430e",
+            "id": "b1a989edbe4e8d7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "CosmosEngine/CosmosRenderer/Vulkan study and tests.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "CosmosEngine/CosmosRenderer/Vulkan study and tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "CosmosEngine/CosmosRenderer/Vulkan study and tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "CosmosEngine/CosmosRenderer/Vulkan study and tests.md"
               }
             }
           },
@@ -192,8 +182,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2401f6311d1a430e",
+  "active": "495779382dfac5dd",
   "lastOpenFiles": [
+    "Machine Learning/103/Unsupervised - Seeds.md",
+    "CosmosEngine/CosmosRenderer/Vulkan study and tests.md",
+    "CosmosEngine/CosmosRenderer",
+    "CosmosEngine",
+    "Machine Learning/OVH - Entretien.md",
     "conflict-files-obsidian-git.md",
     "Machine Learning/To Dive Deeper/Assets/Pasted image 20231123220042.png",
     "Machine Learning/To Dive Deeper/Assets/Pasted image 20231123213150.png",
@@ -204,9 +199,7 @@
     "Machine Learning/To Dive Deeper/Decision Tree & Random Forest.md",
     "Machine Learning/To Dive Deeper/Assets",
     "Machine Learning/To Dive Deeper",
-    "Machine Learning/OVH - Entretien.md",
     "Machine Learning/103/Assets/Pasted image 20231122164118.png",
-    "Machine Learning/103/Unsupervised - Seeds.md",
     "Machine Learning/103/Assets/Pasted image 20231122164750.png",
     "Machine Learning/103/Assets/Pasted image 20231122164123.png",
     "Machine Learning/103/Assets/Pasted image 20231122163211.png",
@@ -232,9 +225,7 @@
     "Machine Learning/102",
     "Machine Learning/101/Assets",
     "Machine Learning/101",
-    "Machine Learning",
     "Journal/2023/Septembre/Semaine 1.md",
-    "Journal/2023/Septembre",
     "Test Git/Coucou.md",
     "Journal/28 08 2023.md",
     "Mobile.md",
