@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8a32502b526ab181",
+        "id": "d92ac17868ed222d",
         "type": "tabs",
         "children": [
           {
-            "id": "f0cb43442440658c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "60162030ff8d0299",
+            "id": "e8a836ab96bf6b68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "YT/Strlen pushswap/Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "YT/Strlen pushswap/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "YT/Strlen pushswap/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "YT/Strlen pushswap/Notes.md"
               }
             }
           },
@@ -152,7 +143,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -178,8 +171,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "60162030ff8d0299",
+  "active": "e8a836ab96bf6b68",
   "lastOpenFiles": [
+    "YT/NULL speed/Notes.md",
+    "YT/Strlen pushswap/Notes.md",
+    "YT/Strlen pushswap",
+    "YT/S.md",
+    "YT/Ideas.md",
+    "YT/NULL speed",
+    "YT",
     "conflict-files-obsidian-git.md",
     "Machine Learning/OVH - Entretien.md",
     "CosmosEngine/CosmosRenderer/Vulkan study and tests.md",
@@ -208,7 +208,6 @@
     "Machine Learning/102/3 - Support vector machine.md",
     "Machine Learning/101/Unsupervised learning.md",
     "Machine Learning/101/Supervised learning.md",
-    "Machine Learning/101/MAGIC ML.md",
     "Machine Learning/103/Assets/Pasted image 20231122164123.png",
     "Machine Learning/103/Assets/Pasted image 20231122164750.png",
     "Machine Learning/103/Assets/Pasted image 20231122163211.png",
@@ -220,12 +219,6 @@
     "Machine Learning/103/Assets",
     "Machine Learning/103",
     "Machine Learning/102/Assets",
-    "Machine Learning/102",
-    "Machine Learning/101/Assets",
-    "Machine Learning/101",
-    "Journal/2023/Aout/Semaine 4/Août 2023 - Semaine 4.md",
-    "Test Git/Coucou.md",
-    "Journal/28 08 2023.md",
     "Untitled.canvas"
   ]
 }
