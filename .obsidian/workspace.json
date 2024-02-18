@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8a32502b526ab181",
+        "id": "d92ac17868ed222d",
         "type": "tabs",
         "children": [
           {
-            "id": "f0cb43442440658c",
+            "id": "e8a836ab96bf6b68",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "YT/Strlen pushswap/Notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "YT/Strlen pushswap/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "YT/Strlen pushswap/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "YT/Strlen pushswap/Notes.md"
+              }
             }
           },
           {
@@ -135,7 +143,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -161,8 +171,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f0cb43442440658c",
+  "active": "e8a836ab96bf6b68",
   "lastOpenFiles": [
+    "YT/NULL speed/Notes.md",
+    "YT/Strlen pushswap/Notes.md",
+    "YT/Strlen pushswap",
+    "YT/S.md",
+    "YT/Ideas.md",
+    "YT/NULL speed",
+    "YT",
+    "conflict-files-obsidian-git.md",
+    "Machine Learning/OVH - Entretien.md",
+    "CosmosEngine/CosmosRenderer/Vulkan study and tests.md",
+    "CosmosEngine/CosmosRenderer",
+    "CosmosEngine",
     "Journal/2023/Aout/Semaine 4.md",
     "Journal/2023/Septembre/Semaine 1.md",
     "Machine Learning/102/1 - Naive Bayes.md",
@@ -177,7 +199,6 @@
     "Machine Learning/To Dive Deeper/Assets/Pasted image 20231123213150.png",
     "Machine Learning/To Dive Deeper",
     "Machine Learning/102/2 - Logistic Regression.md",
-    "conflict-files-obsidian-git.md",
     "Machine Learning/103/Unsupervised - Seeds.md",
     "Machine Learning/103/Principal Component Analysis.md",
     "Machine Learning/103/K-MEANS Clustering.md",
@@ -187,7 +208,6 @@
     "Machine Learning/102/3 - Support vector machine.md",
     "Machine Learning/101/Unsupervised learning.md",
     "Machine Learning/101/Supervised learning.md",
-    "Machine Learning/101/MAGIC ML.md",
     "Machine Learning/103/Assets/Pasted image 20231122164123.png",
     "Machine Learning/103/Assets/Pasted image 20231122164750.png",
     "Machine Learning/103/Assets/Pasted image 20231122163211.png",
@@ -199,16 +219,6 @@
     "Machine Learning/103/Assets",
     "Machine Learning/103",
     "Machine Learning/102/Assets",
-    "Machine Learning/102",
-    "Machine Learning/101/Assets",
-    "Machine Learning/101",
-    "Untitled",
-    "Machine Learning",
-    "Journal/2023/Aout/Semaine 4/Août 2023 - Semaine 4.md",
-    "Test Git/Coucou.md",
-    "Journal/28 08 2023.md",
-    "Mobile.md",
-    "This is but a test.md",
     "Untitled.canvas"
   ]
 }
