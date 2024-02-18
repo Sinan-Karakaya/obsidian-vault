@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/101/MAGIC ML.md",
-                "mode": "preview",
+                "file": "Projet Ideas/Writer's table.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Machine Learning/101/MAGIC ML.md",
+            "file": "Projet Ideas/Writer's table.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Machine Learning/101/MAGIC ML.md",
+            "file": "Projet Ideas/Writer's table.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Machine Learning/101/MAGIC ML.md"
+            "file": "Projet Ideas/Writer's table.md"
           }
         }
       },
@@ -153,8 +153,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e811921e32de14d0",
+  "active": "03b9a19716851d24",
   "lastOpenFiles": [
+    "Machine Learning/101/MAGIC ML.md",
+    "Projet Ideas/Writer's table.md",
+    "Untitled",
     "Projet Ideas",
     "YT/Strlen pushswap/Notes.md",
     "YT/NULL speed/Notes.md",
@@ -172,10 +175,7 @@
     "/YT/Strlen pushswap",
     "/YT/NULL speed",
     "/YT",
-    "/CosmosEngine/CosmosRenderer",
-    "/CosmosEngine",
     "Machine Learning/102/4 - Neural networks.md",
-    "Machine Learning/101/MAGIC ML.md",
     "Machine Learning/To Dive Deeper/Receiver Operating Characteristics.md",
     "Machine Learning/To Dive Deeper/Inductive or Deductive Reasoning.md",
     "Machine Learning/To Dive Deeper/Decision Tree & Random Forest.md",
