@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "189240e5244e07bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arc mobile clone.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,9 @@
         "state": {
           "type": "all-properties",
           "state": {
-            "sortOrder": "frequency"
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
           }
         }
       }
@@ -95,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Projet Ideas/Writer's table.md",
+            "file": "Arc mobile clone.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Projet Ideas/Writer's table.md",
+            "file": "Arc mobile clone.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Projet Ideas/Writer's table.md"
+            "file": "Arc mobile clone.md"
           }
         }
       },
@@ -153,10 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03b9a19716851d24",
+  "active": "189240e5244e07bd",
   "lastOpenFiles": [
-    "Machine Learning/101/MAGIC ML.md",
     "Projet Ideas/Writer's table.md",
+    "Arc mobile clone.md",
+    "Machine Learning/101/MAGIC ML.md",
     "Untitled",
     "Projet Ideas",
     "YT/Strlen pushswap/Notes.md",
@@ -192,7 +208,6 @@
     "/Machine Learning/To Dive Deeper/SMOTE-NC.md",
     "/Machine Learning/To Dive Deeper/SMOTE (Synthetic Minority Oversampling Technique).md",
     "/Machine Learning/To Dive Deeper/Receiver Operating Characteristics.md",
-    "/Machine Learning/To Dive Deeper/Inductive or Deductive Reasoning.md",
     "/Machine Learning/To Dive Deeper/Assets/Pasted image 20231123220042.png",
     "/Machine Learning/To Dive Deeper/Assets/Pasted image 20231123213150.png",
     "Machine Learning/103/Assets/Pasted image 20231122164750.png",
