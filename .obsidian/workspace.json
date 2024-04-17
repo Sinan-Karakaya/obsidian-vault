@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YT/Strlen pushswap/Notes.md",
-                "mode": "source",
+                "file": "Machine Learning/102/4 - Neural networks.md",
+                "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a4899307f2dccda",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YT/Strlen pushswap/Notes.md",
+                "file": "Machine Learning/102/4 - Neural networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YT/Strlen pushswap/Notes.md",
+                "file": "Machine Learning/102/4 - Neural networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YT/Strlen pushswap/Notes.md"
+                "file": "Machine Learning/102/4 - Neural networks.md"
               }
             }
           },
@@ -171,10 +182,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8a836ab96bf6b68",
+  "active": "6a4899307f2dccda",
   "lastOpenFiles": [
-    "YT/NULL speed/Notes.md",
     "YT/Strlen pushswap/Notes.md",
+    "Projet Ideas/Writer's table.md",
+    "Projet Ideas/Arc mobile clone.md",
+    "Projet Ideas",
+    "YT/NULL speed/Notes.md",
     "YT/Strlen pushswap",
     "YT/S.md",
     "YT/Ideas.md",
@@ -206,8 +220,6 @@
     "Machine Learning/102/5 - Linear Regression.md",
     "Machine Learning/102/4 - Neural networks.md",
     "Machine Learning/102/3 - Support vector machine.md",
-    "Machine Learning/101/Unsupervised learning.md",
-    "Machine Learning/101/Supervised learning.md",
     "Machine Learning/103/Assets/Pasted image 20231122164123.png",
     "Machine Learning/103/Assets/Pasted image 20231122164750.png",
     "Machine Learning/103/Assets/Pasted image 20231122163211.png",
@@ -218,7 +230,6 @@
     "Machine Learning/103/Assets/Pasted image 20231122161607.png",
     "Machine Learning/103/Assets",
     "Machine Learning/103",
-    "Machine Learning/102/Assets",
     "Untitled.canvas"
   ]
 }
