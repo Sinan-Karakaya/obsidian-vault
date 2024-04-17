@@ -15,8 +15,8 @@ However, consoles released after that, such as the Xbox or the PS2, are much mor
 ## The PS2
 
 Knowing the closed nature of video game development at the time, I just simply wanted to see if those were available to the public, more than 20 years after. And to my surprise...
-`Show ps2sdk link`
 
+`Show ps2sdk link`
 Yup. There is an SDK online. Actually, there is a whole organization with plenty of repositories containing tools for programming on the PS2. Now, those are actually open-source, and are retro-engineered to mimic what the real PS2 SDK was doing, but that's already a whole lot!
 
 And so I thought to myself, why not try it? Why shouldn't I try to make a game using the PS2 SDK? After all, it's in C++, and I love C++! So I started digging... And digging... And digging...
@@ -42,22 +42,27 @@ But... What game do I actually want to make? Let's see... I learned about Tyra t
 Ha-ha, I know! I'll just let my coworker decide on what the game should be! I actually suck at Game Design, and I'll already have my hands busy with writing and upgrading Tyra, so trust me, it's better if someone else take care of that part of the game.
 
 `Illustrate with screenshot from DQ 4-5-6`
-But since we don't want to make the game too complex, we'll probably go with a mix of 3D and 2D, just like what we can see in the Dragon Quest remakes for the Nintendo DS.\
+But since we don't want to make the game too complex, we'll probably go with a mix of 3D and 2D, just like what we can see in the Dragon Quest remakes for the Nintendo DS. And a twin stick shooter too, cause why not.
 
 So anyway, the plan:
 - I need to add some utils functions. Tyra is nice, and helps a ton, but it still misses some basic functions that I will definitely need in the game, such as drawing text. So I'll have to take care of that first.
-- Then, the backbone of the game will be the way it handles entities. I already have an idea, and I'll most definitely start by integrating ENTT into Tyra. For those that don't know, ENTT is a well-known ECS library that is used in pretty big engine, such as the one that Mojang uses for example. Yup, Minecraft (not the Java edition) uses ENTT as an ECS, so I don't think it will have much trouble with my game.
+- Then, the backbone of the game will be the way it handles entities. I already have an idea, and I'll probably start by integrating ENTT into Tyra. For those that don't know, ENTT is a well-known ECS library that is used in pretty big engine, such as the one that Mojang uses for example. Yup, Minecraft (not the Java edition) uses ENTT as an ECS, so I don't think it will have much trouble with my game.
 - And then... Well, we'll see. I already have a few idea, such as handling map loading, so that I can start prototyping as soon as possible, but all of that can wait for now, I already have quite a lot on my hand.
 
+...Actually, I lied. I have already done the first 2 steps that I just talked about. Basic text drawing and ENTT are already implemented in the game, so it's not like the project hasn't even started yet.
+
 ## Outro
+
+`Show clip of me struggling on something`
+And that makes the perfect transition for me to tell you about my Twitch account, where I stream myself struggling on basic problems on the project.
+
+If you want to see more of what I do, or of the evolution of the project before anyone else, you can find me on Twitch at Feisar_labs. I've actually already streamed a few times. The VODs are online on my youtube channel, if you missed those (which you probably did, but I'm not blaming you for that).
 
 If you want to track the progress I make, you can find the repository in the description of the video. I will probably update the code daily, or at least a couple times a week.
 If some of you guys are living in France, in Brittany to be precise, I will be giving a short "tool-in-action" about Tyra (in French, sorry !) at the Breizhcamp, in June.
 
-For those that want to see more of what I do, I'm planning on streaming sessions about working on this project, you can find me on Twitch at Feisar_labs. I've actually already streamed once, mainly to test that everything was working fine. The VOD is online on my youtube channel, and I'm sorry that I spoke French during the whole stream, but I'll swear the next ones will be in English !
-
 If you wonder why I made this video when I don't have a lot to show yet, it's because I find this project very interesting, and I want to keep track of what I've done, so you can expect other videos about this project to release in the future, talking about what I've achieved.
 
-Anyway, that's it for today, if you likes this video and want to see me more, make me know by liking this video and subscribing to this channel. If you have questions about the project, please comment under that video or come ask me during a stream, I'll be happy to answer you!
+Anyway, that's it for today, if you liked this video and want to see me more, let me know by liking this video and subscribing to this channel. If you have questions about the project, please comment under that video or come ask me during a stream, I'll be happy to answer you!
 
-Thanks for watching. Feisar, out.
+Thank you for watching. Feisar, out.

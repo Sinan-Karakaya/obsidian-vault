@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "859d97d9cad2105a",
@@ -173,8 +173,9 @@
   },
   "active": "b53bd1b726558f0e",
   "lastOpenFiles": [
-    "Untitled.md",
+    "CosmosEngine/CosmosRenderer/Vulkan study and tests.md",
     "YT/PS2 series/Making a game for the PS2 - Intro.md",
+    "Untitled.md",
     "YT/PS2 series",
     "Machine Learning/102/4 - Neural networks.md",
     "YT/Strlen pushswap/Notes.md",
@@ -189,7 +190,6 @@
     "YT",
     "conflict-files-obsidian-git.md",
     "Machine Learning/OVH - Entretien.md",
-    "CosmosEngine/CosmosRenderer/Vulkan study and tests.md",
     "CosmosEngine/CosmosRenderer",
     "CosmosEngine",
     "Journal/2023/Aout/Semaine 4.md",
