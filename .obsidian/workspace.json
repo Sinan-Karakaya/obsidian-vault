@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d92ac17868ed222d",
+        "id": "755cb4ff37bc2f50",
         "type": "tabs",
         "children": [
           {
-            "id": "e8a836ab96bf6b68",
+            "id": "b53bd1b726558f0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/102/4 - Neural networks.md",
-                "mode": "preview",
+                "file": "YT/PS2 series/Making a game for the PS2 - Intro.md",
+                "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "6a4899307f2dccda",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/102/4 - Neural networks.md",
+                "file": "YT/PS2 series/Making a game for the PS2 - Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/102/4 - Neural networks.md",
+                "file": "YT/PS2 series/Making a game for the PS2 - Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/102/4 - Neural networks.md"
+                "file": "YT/PS2 series/Making a game for the PS2 - Intro.md"
               }
             }
           },
@@ -182,8 +171,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6a4899307f2dccda",
+  "active": "b53bd1b726558f0e",
   "lastOpenFiles": [
+    "Untitled.md",
+    "YT/PS2 series/Making a game for the PS2 - Intro.md",
+    "YT/PS2 series",
+    "Machine Learning/102/4 - Neural networks.md",
     "YT/Strlen pushswap/Notes.md",
     "Projet Ideas/Writer's table.md",
     "Projet Ideas/Arc mobile clone.md",
@@ -217,9 +210,6 @@
     "Machine Learning/103/Principal Component Analysis.md",
     "Machine Learning/103/K-MEANS Clustering.md",
     "Machine Learning/102/Supervised Learning - Regression.md",
-    "Machine Learning/102/5 - Linear Regression.md",
-    "Machine Learning/102/4 - Neural networks.md",
-    "Machine Learning/102/3 - Support vector machine.md",
     "Machine Learning/103/Assets/Pasted image 20231122164123.png",
     "Machine Learning/103/Assets/Pasted image 20231122164750.png",
     "Machine Learning/103/Assets/Pasted image 20231122163211.png",
@@ -229,7 +219,6 @@
     "Machine Learning/103/Assets/Pasted image 20231122163143.png",
     "Machine Learning/103/Assets/Pasted image 20231122161607.png",
     "Machine Learning/103/Assets",
-    "Machine Learning/103",
     "Untitled.canvas"
   ]
 }
