@@ -1,4 +1,5 @@
 # Script
+## Intro
 So... I'm making a game for the PS2 in 2024. But why?
 Well, I'm a simple man, and I only need simple reasons you see.
 
@@ -10,6 +11,8 @@ What do I mean by modern consoles ? Well, let's start from the beginning. Nowada
 
 `Show modern consoles hardware diagrams and illustrations`
 However, consoles released after that, such as the Xbox or the PS2, are much more complex machines, that offers more capabilities than their predecessors. That mean that in order to write a game for the PS2, I would need to write a large library to handle basic functionalities, which would take a while, would be difficult, and expensive. So, in order to have more than 2 obscure games released on their consoles, console manufacturers wrote those library for us already, those so-called SDKs.
+
+## The PS2
 
 Knowing the closed nature of video game development at the time, I just simply wanted to see if those were available to the public, more than 20 years after. And to my surprise...
 `Show ps2sdk link`
@@ -31,6 +34,8 @@ It actually simplifies the code that we would need to write in order to load and
 - There are no graphical editor for a level for example, which is understandable as it would take some effort to make one for, arguably, not much, as nobody make games for the PS2 anymore (I mean except me of course)
 - And more importantly, there isn't an ECS or something similar to handle entities. This mean that without one, we would have to handle each entity in our game by hand in the code. Which, for a simple game is fine, such as a Duck hunt clone for example, but come on, this isn't 1984 anymore, we can make so much more with the PS2.
 
+## My game
+
 So, the first step of my project was very clear: I need to upgrade Tyra with a couple of features before I could start working on making a game.
 
 But... What game do I actually want to make? Let's see... I learned about Tyra through talking with a coworker about games such as Final Fantasy and Dragon Quest...
@@ -43,6 +48,8 @@ So anyway, the plan:
 - I need to add some utils functions. Tyra is nice, and helps a ton, but it still misses some basic functions that I will definitely need in the game, such as drawing text. So I'll have to take care of that first.
 - Then, the backbone of the game will be the way it handles entities. I already have an idea, and I'll most definitely start by integrating ENTT into Tyra. For those that don't know, ENTT is a well-known ECS library that is used in pretty big engine, such as the one that Mojang uses for example. Yup, Minecraft (not the Java edition) uses ENTT as an ECS, so I don't think it will have much trouble with my game.
 - And then... Well, we'll see. I already have a few idea, such as handling map loading, so that I can start prototyping as soon as possible, but all of that can wait for now, I already have quite a lot on my hand.
+
+## Outro
 
 If you want to track the progress I make, you can find the repository in the description of the video. I will probably update the code daily, or at least a couple times a week.
 If some of you guys are living in France, in Brittany to be precise, I will be giving a short "tool-in-action" about Tyra (in French, sorry !) at the Breizhcamp, in June.
