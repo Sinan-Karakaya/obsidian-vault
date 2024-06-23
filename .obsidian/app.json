@@ -1,5 +1,8 @@
 {
   "showLineNumber": true,
-  "promptDelete": false,
-  "spellcheck": true
+  "promptDelete": true,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": true,
+  "showRibbon": true
 }

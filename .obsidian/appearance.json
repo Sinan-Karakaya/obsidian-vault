@@ -1,7 +1,9 @@
 {
   "accentColor": "",
   "translucency": true,
-  "cssTheme": "Vanilla AMOLED",
+  "cssTheme": "",
   "baseFontSize": 18,
-  "textFontFamily": "Cascadia Code"
+  "textFontFamily": "Cascadia Code",
+  "baseFontSizeAction": true,
+  "showViewHeader": true
 }
