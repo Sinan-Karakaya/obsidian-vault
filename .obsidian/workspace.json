@@ -11,11 +11,14 @@
             "id": "b53bd1b726558f0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "YT/PS2 series/Making a game for the PS2 - Intro.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -69,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 265.5
   },
   "right": {
     "id": "859d97d9cad2105a",
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YT/PS2 series/Making a game for the PS2 - Intro.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YT/PS2 series/Making a game for the PS2 - Intro.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YT/PS2 series/Making a game for the PS2 - Intro.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -173,8 +176,9 @@
   },
   "active": "b53bd1b726558f0e",
   "lastOpenFiles": [
-    "CosmosEngine/CosmosRenderer/Vulkan study and tests.md",
+    "Untitled.canvas",
     "YT/PS2 series/Making a game for the PS2 - Intro.md",
+    "CosmosEngine/CosmosRenderer/Vulkan study and tests.md",
     "Untitled.md",
     "YT/PS2 series",
     "Machine Learning/102/4 - Neural networks.md",
@@ -209,7 +213,6 @@
     "Machine Learning/103/Unsupervised - Seeds.md",
     "Machine Learning/103/Principal Component Analysis.md",
     "Machine Learning/103/K-MEANS Clustering.md",
-    "Machine Learning/102/Supervised Learning - Regression.md",
     "Machine Learning/103/Assets/Pasted image 20231122164123.png",
     "Machine Learning/103/Assets/Pasted image 20231122164750.png",
     "Machine Learning/103/Assets/Pasted image 20231122163211.png",
@@ -218,7 +221,6 @@
     "Machine Learning/103/Assets/Pasted image 20231122160525.png",
     "Machine Learning/103/Assets/Pasted image 20231122163143.png",
     "Machine Learning/103/Assets/Pasted image 20231122161607.png",
-    "Machine Learning/103/Assets",
-    "Untitled.canvas"
+    "Machine Learning/103/Assets"
   ]
 }
